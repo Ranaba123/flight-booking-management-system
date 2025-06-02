@@ -1,4 +1,4 @@
-# Plane Management System
+# Flight Seats Management System
 
 ## Overview
 The Plane Management System is a Java-based console application developed for the Software Development II coursework at the Informatics Institute of Technology, University of Westminster. This system allows users to manage airplane seat bookings through a command-line interface. It supports functionalities such as buying and canceling seats, finding available seats, displaying the seating plan, printing ticket information, and searching for specific tickets.
